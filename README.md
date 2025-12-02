@@ -9,6 +9,4 @@ Prosjektet demonstrerer grunnleggende struktur for en nettside.
 - `images/` – Bilder brukt i prosjektet
 
 ## Hvordan bruke
-1. Last ned eller klon repoet:
-   ```bash
-   git clone https://github.com/brukernavn/prosjekt.git.
+1. gå til https://zawardosa90.github.io/index.HTML
